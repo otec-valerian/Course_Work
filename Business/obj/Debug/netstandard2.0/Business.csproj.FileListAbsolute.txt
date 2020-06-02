@@ -1,0 +1,9 @@
+C:\Users\Otec_Valerian\source\repos\Test2\Business\bin\Debug\netstandard2.0\Business.deps.json
+C:\Users\Otec_Valerian\source\repos\Test2\Business\bin\Debug\netstandard2.0\Business.dll
+C:\Users\Otec_Valerian\source\repos\Test2\Business\bin\Debug\netstandard2.0\Business.pdb
+C:\Users\Otec_Valerian\source\repos\Test2\Business\obj\Debug\netstandard2.0\Business.csprojAssemblyReference.cache
+C:\Users\Otec_Valerian\source\repos\Test2\Business\obj\Debug\netstandard2.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\Otec_Valerian\source\repos\Test2\Business\obj\Debug\netstandard2.0\Business.AssemblyInfoInputs.cache
+C:\Users\Otec_Valerian\source\repos\Test2\Business\obj\Debug\netstandard2.0\Business.AssemblyInfo.cs
+C:\Users\Otec_Valerian\source\repos\Test2\Business\obj\Debug\netstandard2.0\Business.dll
+C:\Users\Otec_Valerian\source\repos\Test2\Business\obj\Debug\netstandard2.0\Business.pdb
