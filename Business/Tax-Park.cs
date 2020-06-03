@@ -14,30 +14,7 @@ namespace Business
         private event UserStateHandler ParkTripStarted;
         private event UserStateHandler ParkTripEnded;
         private event UserStateHandler OrderStarted;
-        struct Price
-        {
-            public double MinDist;
-            public double MinPrice;
-            public double PricePerKm;
-            public Price(double md, double mp, double ppkm)
-            {
-                MinDist = md;
-                MinPrice = mp;
-                PricePerKm = ppkm;
-            }
-        }
         
-        public struct Order
-        {
-            public Place location;
-            public Place destination;
-            public Order(Place locat, Place dest)
-            {
-                location = locat;
-                destination = dest;
-            }
-        }
-
         public Town WorkTown { get; private set; }
         public string Name { get; private set; }
         private List<Taxer> Taxers = new List<Taxer>();
